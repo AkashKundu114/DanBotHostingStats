@@ -4,11 +4,11 @@
 
     "DiscordBot": {
         "Token": "Bot Token",
-        "Prefix": "Prefix",
-        "clientID": "Client ID from Discord Dev portal for the bot",
-        "clientSecret": "Client Secret from the Discord Dev Portal.",
+        "Prefix": "d!",
+        "clientID": "728851296312098827",
+        "clientSecret": "CGblNQiiNGvJi3IrBSL1BxXW4AV12Psn",
         "callbackURL": "Call back url. For logging into the website",
-        "ownerID": "Owner ID. Gives you access to a few more commands :)",
+        "ownerID": "705098455881613352",
         "mLogs": "Message logs channel ID",
         "oLogs": "Other logs channel id (Currently used for namechanges and linking logs)",
         "welcome": "Welcome channel ID",
@@ -27,13 +27,13 @@
     },
 
     "DB": {
-        "MongoDB": "MongoDB connection (forgot what this is for but give it one anyway)"
+        "MongoDB": "mongodb+srv://bot-list-lol:SzRpE6eXNegtLRvs@cluster0.jme3y.mongodb.net/bot-list-lol?retryWrites=true&w=majority"
     },
 
     "Pterodactyl": {
-        "hosturl": "Pterodactyl URL (Dont put the / on the end) Example: https://your.panel.com",
+        "hosturl": "https://panel.danbot.host",
         "apikey": "Pterodactyl ADMIN Api key. Where to find? add admin/api to the end of your panel domain",
-        "apikeyclient": "Pterodactyl CLIENT Api key. Find it: add account/api to the end of your panel domain"
+        "apikeyclient": "efGxb4fSYBwYcpYXrmhzufP2DLy4QjdolRk9R2h2eCV7SjeD"
     },
 
     "Proxmox": {
